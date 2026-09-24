@@ -15,7 +15,6 @@ body {
 }
 
 
-/* ================= NAVBAR ================= */
 
 .navbar {
     background: #3E2723;
@@ -64,9 +63,6 @@ body {
     background: #D97706;
 }
 
-
-/* ================= HERO ================= */
-
 .hero {
     min-height: 430px;
 
@@ -110,8 +106,6 @@ body {
 }
 
 
-/* ================= INTRO ================= */
-
 .intro {
     max-width: 850px;
     margin: auto;
@@ -146,8 +140,6 @@ body {
     font-size: 17px;
 }
 
-
-/* ================= GALLERY ================= */
 
 .gallery-section {
     padding: 20px 7% 70px;
@@ -237,8 +229,6 @@ body {
 }
 
 
-/* ================= MESSAGE ================= */
-
 .gallery-message {
     max-width: 900px;
     margin: 0 auto 70px;
@@ -264,9 +254,6 @@ body {
 .gallery-message > p:last-child {
     line-height: 1.8;
 }
-
-
-/* ================= FOOTER ================= */
 
 .footer {
     background: #3E2723;
@@ -315,8 +302,6 @@ body {
     margin-top: 15px;
 }
 
-
-/* ================= RESPONSIVE ================= */
 
 @media (max-width: 1000px) {
 
